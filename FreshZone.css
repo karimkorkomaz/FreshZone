@@ -6,6 +6,7 @@ body {
     padding-top: 3rem;
     padding-bottom: 3rem;
     color: dodgerblue;
+    background-color: whitesmoke;
 }
 .image1{
     position: relative;
@@ -32,10 +33,19 @@ body {
 .heading1{
 width: 400px;
     height: 400px;
-   margin-top: -1815px;
+   margin-top: -1880px;
     margin-left: -20px;
 }
+.heading2{
+    width: 370px;
+    height: 370px;
+    margin-top: -442px;
+}
+.heading3{
+    width: 370px;
+    height: 370px;
 
+}
 
 
 /* CUSTOMIZE THE CAROUSEL
@@ -206,4 +216,20 @@ p{
         transform: scale(1, 1);
     }
 }
+h2{
+    animation-name: blink;
+animation-duration: 10s;
+    animation-iteration-count: infinite;
 
+    color: black;
+    font-size: 65px;
+    border: solid;
+
+
+}
+@keyframes blink {
+  0%{background-color: lightblue}
+    30%{background-color: royalblue}
+    60%{background-color: deepskyblue}
+    100%{background-color: lavender}
+}
