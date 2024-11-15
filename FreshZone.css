@@ -15,18 +15,18 @@ body {
 }
 .image2{
     position: relative;
-    margin-bottom: -450px;
+    margin-bottom: -200px;
     left: -380px;
     height: 525px;
 }
 .image3{
     position: relative;
-    margin-bottom: -300px;
+    margin-bottom: -183px;
     left: -60px;
     height: 400px;
 }
 .textt{
-    font-family:fantasy;
+    font-family:fantasy, Impact;
     color: royalblue;
 }
 .heading1{
@@ -169,14 +169,14 @@ width: 400px;
     --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
 
     --bs-btn-font-weight: 600;
-    --bs-btn-color: var(--bs-white);
+
     --bs-btn-bg: var(--bd-violet-bg);
     --bs-btn-border-color: var(--bd-violet-bg);
-    --bs-btn-hover-color: var(--bs-white);
+
     --bs-btn-hover-bg: #6528e0;
     --bs-btn-hover-border-color: #6528e0;
     --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
-    --bs-btn-active-color: var(--bs-btn-hover-color);
+
     --bs-btn-active-bg: #5a23c8;
     --bs-btn-active-border-color: #5a23c8;
 }
