@@ -1,0 +1,97 @@
+body{
+	background: white;
+}
+
+.Logo{
+	position: relative;
+	width: 200px;
+	height: 200px;
+	margin-left: 80px;
+	top: 0;
+	image-rendering:smooth;
+	background-color: whitesmoke;
+
+
+}
+.nav-text{
+	font-size: 38px;
+	font-family:"Arial Black",sans-serif;
+	color: #16bbc7;
+	text-decoration-thickness: 40px;
+}.nav-text2{
+	 font-size: 38px;
+	 font-family:"Arial Black",sans-serif;
+	 color: black;
+	 text-decoration-thickness: 40px;
+ }.nav-text3{
+	  font-size: 40px;
+	  font-family:"Arial Black",sans-serif;
+	  color: #d93d32;
+	  text-decoration-thickness: 40px;
+  }
+  .about1{
+	  margin-top: 0px;
+	  text-align: center;
+	  font-family: "Arial Black",sans-serif;
+	  position: sticky;
+	  font-size: 30px;
+	  border: solid transparent 40px;
+
+
+
+	  background-color: #18bec9;
+	  color: white;
+
+  }.about{
+	   text-align: center;
+	   font-family: "Arial Black",sans-serif;
+	   position: relative;
+	   font-size: 15px;
+	   border-width: 200px;
+	   background-color: #18bec9;
+	   color: white;
+	top: -10px;
+   }
+  .brief{
+	  font-family: "Arial Black",sans-serif;
+	  background-color: #18bec9;
+	  color: white;
+  }
+  .h3{
+	  text-align: center;
+  }
+  .text-dec{
+	  color: white;
+	  background-color: grey;
+	 margin-top: -27px;
+	  position: relative;
+	 border: solid transparent 40px ;
+
+  }
+    .pp{
+		height: 300px;
+		width: 300px;
+		background-color: gray;
+	}
+	.mild{
+		text-align: left;
+		text-decoration: underline;
+		font-family: "Arial Black",sans-serif;
+		color: white;
+		background-color: grey;
+	}
+    .exp{
+		font-family: "Arial Black",sans-serif;
+		color: white;
+	}
+	.whatsapp{
+		top:90%;
+		right: 0;
+		transform: translateY(-50%);
+		z-index: 100;
+		font-size: 50px;
+		margin-left: 330px;
+		color: lawngreen;
+		position: fixed;
+
+	}
