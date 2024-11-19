@@ -29,6 +29,9 @@ body{
 	  color: #d93d32;
 	  text-decoration-thickness: 40px;
   }
+  .padding{
+	  padding: 25px 20px ;
+  }
   .about1{
 	  margin-top: 0;
 	  text-align: center;
