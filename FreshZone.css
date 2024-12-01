@@ -82,10 +82,14 @@ body{
 	.mild{
 		text-align: center;
 		text-decoration: underline;
+		text-underline-offset: 10px;
+		text-decoration-thickness: 3px;
+
 		font-family: "Arial Black",sans-serif;
 		color: white;
 		background-color: grey;
 	}
+
     .exp{
 		font-family: "Arial Black",sans-serif;
 		color: white;
@@ -107,6 +111,9 @@ body{
 	}
 	@media only screen and (max-width: 767px){
 		.about1{
+			font-family: "Arial Black",Impact;
+		}
+		.mild{
 			font-family: "Arial Black",Impact;
 		}
 	}
