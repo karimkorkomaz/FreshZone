@@ -105,3 +105,8 @@ body{
            height: 250px;
 		width:500px ;
 	}
+	@media only screen and (max-width: 767px){
+		.about1{
+			font-family: "Arial Black",Impact;
+		}
+	}
