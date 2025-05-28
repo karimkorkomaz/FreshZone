@@ -6,7 +6,11 @@ body{
 	position: relative;
 	width: 250px;
 	height: 250px;
+<<<<<<< HEAD
 	margin-left: 69px;
+=======
+	margin-left: 710px;
+>>>>>>> 14fa956 (Igore .idea folder)
 	top: 10px;
 	margin-top: 35px;
 	margin-bottom: 20px;
@@ -16,6 +20,21 @@ body{
 
 
 }
+
+.d1{
+	position: absolute;
+	margin-top: -230px;
+}
+.logout{
+	float: right;
+	margin-top: -260px;
+}
+
+.carousel-item{
+	height: 400px;
+
+}
+
 .nav-text{
 	font-size: 38px;
 	font-family:"Arial Black",sans-serif;
@@ -105,10 +124,14 @@ body{
 		position: fixed;
 
 	}
+ HEAD
 	.carousel-item{
            height: 250px;
 		width:500px ;
 	}
+
+
+
 	@media only screen and (max-width: 767px){
 		.about1{
 			font-family: "Arial Black",Impact;
@@ -116,4 +139,25 @@ body{
 		.mild{
 			font-family: "Arial Black",Impact;
 		}
+<<<<<<< HEAD
+=======
+		.Logo{
+			position: relative;
+			width: 250px;
+			height: 250px;
+			margin-left: 69px;
+			top: 10px;
+			margin-top: 35px;
+			margin-bottom: 20px;
+			image-rendering:smooth;
+			background-color: white;
+			border-radius: 60px;
+
+
+		}
+		.carousel-item{
+			height: 250px;
+			width:500px ;
+		}
+>>>>>>> 14fa956 (Igore .idea folder)
 	}
